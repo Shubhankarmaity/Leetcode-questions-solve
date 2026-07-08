@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1301-number-of-paths-with-max-score) |
+| [2484-count-palindromic-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2484-count-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
+| [2484-count-palindromic-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2484-count-palindromic-subsequences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
