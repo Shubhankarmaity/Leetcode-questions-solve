@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
