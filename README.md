@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
