@@ -2,37 +2,21 @@ import java.util.*;
 
 class Solution {
 
+    private static void findSubSet(int ind,int[]nums,List<Integer>ds,List<List<Integer>>anslist){
+        anslist.add(new ArrayList<>(ds));
+        for(int i=ind;i<nums.length;i++){
+            if(i!=ind && nums[i]==nums[i-1]){
+                continue;
+            }
+            ds.add(nums[i]);
+            findSubSet(i+1,nums,ds,anslist);
+            ds.remove(ds.size()-1);
+        }
+    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-
-        List<List<Integer>> ans = new ArrayList<>();
-        helper(nums, 0, new ArrayList<>(), ans, false);
-
-        return ans;
-    }
-
-    private void helper(int[] nums, int index,
-                        List<Integer> curr,
-                        List<List<Integer>> ans,
-                        boolean prevTaken) {
-
-        if (index == nums.length) {
-            ans.add(new ArrayList<>(curr));
-            return;
-        }
-
-        // Don't take current
-        helper(nums, index + 1, curr, ans, false);
-
-        // If current is duplicate and previous duplicate wasn't taken,
-        // don't take this one.
-        if (index > 0 && nums[index] == nums[index - 1] && !prevTaken) {
-            return;
-        }
-
-        // Take current
-        curr.add(nums[index]);
-        helper(nums, index + 1, curr, ans, true);
-        curr.remove(curr.size() - 1);
+        List<List<Integer>> anslist=new ArrayList<>();
+        findSubSet(0,nums,new ArrayList<>(),anslist);
+        return anslist;
     }
 }
