@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
