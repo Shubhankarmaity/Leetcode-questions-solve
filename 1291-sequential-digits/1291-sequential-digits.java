@@ -17,8 +17,9 @@ class Solution {
 
             if (val % 10 != 9) {
                 int newVal = val * 10 + (val % 10 + 1);
-                if (newVal <= high)
+                if (newVal <= high){
                     q.offer(newVal);
+                }
             }
         }
 
