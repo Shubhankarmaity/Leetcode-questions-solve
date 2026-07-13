@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1291-sequential-digits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
