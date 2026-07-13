@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
