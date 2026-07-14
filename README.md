@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -146,10 +148,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
