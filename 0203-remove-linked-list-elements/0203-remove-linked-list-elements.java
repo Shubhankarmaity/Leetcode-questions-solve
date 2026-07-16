@@ -19,7 +19,8 @@ class Solution {
         while (curr != null) {
             if (curr.val == val) {
                 prev.next = curr.next; 
-            } else {
+            } 
+            else {
                 prev = curr;           
             }
             curr = curr.next;
