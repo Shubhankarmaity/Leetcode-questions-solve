@@ -7,13 +7,12 @@ class Solution {
             max = Math.max(max, x);
         }
 
-        // freq[x] = frequency of x
+        
         int[] freq = new int[max + 1];
         for (int x : nums) {
             freq[x]++;
         }
 
-        // cnt[g] = how many numbers are divisible by g
         long[] cnt = new long[max + 1];
         for (int g = 1; g <= max; g++) {
             for (int multiple = g; multiple <= max; multiple += g) {
@@ -21,7 +20,6 @@ class Solution {
             }
         }
 
-        // exact[g] = number of pairs whose gcd is exactly g
         long[] exact = new long[max + 1];
 
         for (int g = max; g >= 1; g--) {
@@ -33,7 +31,6 @@ class Solution {
             }
         }
 
-        // prefix[g] = number of pairs with gcd <= g
         long[] prefix = new long[max + 1];
         for (int g = 1; g <= max; g++) {
             prefix[g] = prefix[g - 1] + exact[g];
@@ -42,7 +39,7 @@ class Solution {
         int[] ans = new int[queries.length];
 
         for (int i = 0; i < queries.length; i++) {
-            long q = queries[i] + 1; // queries are 0-indexed
+            long q = queries[i] + 1; 
 
             int lo = 1;
             int hi = max;
