@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2484-count-palindromic-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2484-count-palindromic-subsequences) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Linked List
 |  |
 | ------- |
