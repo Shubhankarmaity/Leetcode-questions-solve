@@ -35,7 +35,6 @@ class Solution {
         return querySegmentTree(a, b, 0, 0, n - 1, st);
     }
 
-    // first index k with arr[k] >= key   (C++ lower_bound)
     static int lowerBound(int[] arr, int len, int key) {
         int lo = 0, hi = len;
         while (lo < hi) {
@@ -46,7 +45,6 @@ class Solution {
         return lo;
     }
 
-    // first index k with arr[k] > key    (C++ upper_bound)
     static int upperBound(int[] arr, int len, int key) {
         int lo = 0, hi = len;
         while (lo < hi) {
@@ -65,7 +63,6 @@ class Solution {
             if (s.charAt(idx) == '1') activeCount++;
         }
 
-        // scan zero-blocks, recording where each one sits
         int[] blockStart = new int[n];
         int[] blockEnd = new int[n];
         int m = 0;
@@ -82,8 +79,6 @@ class Solution {
             }
         }
 
-        //If there is only one block of zeros
-        //example : s = "11000011" , answer = simply count of 1s "activeCount"
         if (m < 2) {
             List<Integer> res = new ArrayList<>();
             for (int k = 0; k < queries.length; k++) res.add(activeCount);
@@ -95,8 +90,7 @@ class Solution {
             blockSize[k] = blockEnd[k] - blockStart[k] + 1;
         }
 
-        // pairSum[k] = blockSize[k] + blockSize[k+1], gain from activating adjacent blocks
-        int N = m - 1; //This many pair sum will be there in pairSum
+        int N = m - 1; 
         int[] pairSum = new int[N];
         for (int k = 0; k < N; k++) {
             pairSum[k] = blockSize[k] + blockSize[k + 1];
@@ -105,21 +99,19 @@ class Solution {
         int[] st = constructST(pairSum, N);
 
         List<Integer> result = new ArrayList<>();
-        for (int[] q : queries) {              // O(q * log n)
+        for (int[] q : queries) {             
             int l = q[0];
             int r = q[1];
 
-            // first block reaching into the window from the left
-            int low  = lowerBound(blockEnd, m, l);          // log
-            // last block reaching into the window from the right
-            int high = upperBound(blockStart, m, r) - 1;    // log
+            int low  = lowerBound(blockEnd, m, l);         
+            int high = upperBound(blockStart, m, r) - 1;    
 
             int maxPairSum = 0;
-            if (low < high) {                  // need at least two blocks in the window
+            if (low < high) {                  
                 int firstLen = blockEnd[low] - Math.max(blockStart[low], l) + 1;
                 int lastLen  = Math.min(blockEnd[high], r) - blockStart[high] + 1;
 
-                if (high - low == 1) {         // exactly two blocks only
+                if (high - low == 1) {         
                     maxPairSum = firstLen + lastLen;
                 } else {
                     int pair1 = firstLen + blockSize[low + 1];
