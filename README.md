@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
