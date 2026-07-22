@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
