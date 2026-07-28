@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
