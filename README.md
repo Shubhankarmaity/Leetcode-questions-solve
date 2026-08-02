@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
@@ -301,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 ## Monotonic Stack
 |  |
