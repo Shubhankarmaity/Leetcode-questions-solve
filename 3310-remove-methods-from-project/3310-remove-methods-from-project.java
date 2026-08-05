@@ -13,7 +13,6 @@ class Solution {
             graph.get(edge[0]).add(edge[1]);
         }
 
-        // Find all suspicious methods reachable from k
         boolean[] suspicious = new boolean[n];
 
         Queue<Integer> queue = new LinkedList<>();
@@ -31,14 +30,12 @@ class Solution {
             }
         }
 
-        // Check whether a non-suspicious method
-        // invokes a suspicious method.
+
         for (int[] edge : invocations) {
             int from = edge[0];
             int to = edge[1];
 
             if (!suspicious[from] && suspicious[to]) {
-                // Cannot safely remove suspicious methods
                 List<Integer> ans = new ArrayList<>();
 
                 for (int i = 0; i < n; i++) {
@@ -49,7 +46,6 @@ class Solution {
             }
         }
 
-        // Safe to remove all suspicious methods
         List<Integer> ans = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
