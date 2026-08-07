@@ -153,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Counting Sort
 |  |
@@ -387,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
