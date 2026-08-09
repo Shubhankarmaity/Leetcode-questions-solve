@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0203-remove-linked-list-elements) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
