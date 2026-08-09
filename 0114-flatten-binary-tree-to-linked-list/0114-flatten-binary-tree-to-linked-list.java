@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    List<TreeNode> ll=new LinkedList<>();
     TreeNode prev=null;
     public void flatten(TreeNode root) {
         if(root==null){
