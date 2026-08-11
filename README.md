@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0696-count-binary-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
