@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2484-count-palindromic-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2484-count-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
