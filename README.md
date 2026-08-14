@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
