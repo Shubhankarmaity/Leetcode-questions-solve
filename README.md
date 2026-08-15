@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
