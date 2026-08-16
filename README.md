@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -458,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -492,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
