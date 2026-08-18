@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1563-stone-game-v) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1301-number-of-paths-with-max-score) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1260-shift-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
