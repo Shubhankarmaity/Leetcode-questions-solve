@@ -4,7 +4,6 @@ class Solution {
     public int largestInteger(int[] nums, int k) {
         Map<Integer, Integer> count = new HashMap<>();
 
-        // Count each number once per subarray
         for (int i = 0; i <= nums.length - k; i++) {
             Set<Integer> seen = new HashSet<>();
 
