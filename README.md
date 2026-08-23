@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3499-maximize-active-section-with-trade-i) |
+| [4024-nearest-available-drone](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4024-nearest-available-drone) |
 ## Linked List
 |  |
 | ------- |
