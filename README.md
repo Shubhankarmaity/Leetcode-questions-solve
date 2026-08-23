@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
