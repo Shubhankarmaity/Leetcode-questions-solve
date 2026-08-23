@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1089-duplicate-zeros](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2784-check-if-array-is-good) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -594,4 +599,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
