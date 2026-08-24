@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
