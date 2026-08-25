@@ -4,15 +4,10 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             set.add(nums[i]);
         }
-        int mult=0;
-        int i=1;
-        for(int val:set){
-            mult=k*i;
-            i++;
-            if(!set.contains(mult)){
-                return mult;
-            }
+        int mult=k;
+        while(set.contains(mult)){
+            mult+=k;
         }
-        return k*i;
+        return mult;
     }
 }
