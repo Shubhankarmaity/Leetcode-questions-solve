@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1260-shift-2d-grid) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
