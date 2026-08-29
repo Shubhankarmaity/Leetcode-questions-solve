@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
