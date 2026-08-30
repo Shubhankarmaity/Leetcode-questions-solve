@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
