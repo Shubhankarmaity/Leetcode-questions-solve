@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0242-valid-anagram) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0202-happy-number) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1137-n-th-tribonacci-number) |
 ## Design
 |  |
@@ -680,5 +685,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
