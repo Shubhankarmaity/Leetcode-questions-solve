@@ -32,13 +32,12 @@ class Solution {
 
         if(!list.isEmpty() && list.size()>1){
             maxDist=list.get(list.size()-1) - list.get(0);
-                minDist=list.get(1) - list.get(0);
-                for(int j=1;j<list.size();j++){
-                    if((list.get(j) - list.get(j-1))<minDist){
-                        minDist=list.get(j) - list.get(j-1);
-                    }
+            minDist=list.get(1) - list.get(0);
+            for(int j=1;j<list.size();j++){
+                if((list.get(j) - list.get(j-1))<minDist){
+                    minDist=list.get(j) - list.get(j-1);
                 }
-            
+            }
         }
         ans[0]=minDist;
         ans[1]=maxDist;
