@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2685-count-the-number-of-complete-components) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0146-lru-cache) |
@@ -713,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
