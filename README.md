@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1004-max-consecutive-ones-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1331-rank-transform-of-an-array) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
