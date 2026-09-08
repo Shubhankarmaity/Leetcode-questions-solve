@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -752,4 +756,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
