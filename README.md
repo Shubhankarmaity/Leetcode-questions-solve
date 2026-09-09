@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
