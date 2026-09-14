@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0152-maximum-product-subarray) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
