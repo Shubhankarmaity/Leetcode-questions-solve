@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0868-binary-gap) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Brute-Force Search
 |  |
 | ------- |
