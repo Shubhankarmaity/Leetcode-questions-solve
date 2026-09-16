@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
 ## Queue
 |  |
 | ------- |
