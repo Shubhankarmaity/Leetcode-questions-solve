@@ -42,7 +42,6 @@ class Solution {
             }
         }
 
-        // Both strings must be completely processed
         return i == s.length() && j == word.length();
     }
 }
