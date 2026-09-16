@@ -26,20 +26,17 @@ class Solution {
             }
             int countS = i - startS;
 
-            // Count consecutive characters in word
             int startW = j;
             while (j < word.length() && word.charAt(j) == word.charAt(startW)) {
                 j++;
             }
             int countW = j - startW;
 
-            // word cannot have more occurrences than s
             if (countW > countS) {
                 return false;
             }
 
-            // If s has fewer than 3, we cannot stretch this group.
-            // Therefore, both counts must be equal.
+            
             if (countS < 3 && countS != countW) {
                 return false;
             }
