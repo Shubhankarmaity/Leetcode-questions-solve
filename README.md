@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2784-check-if-array-is-good) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
