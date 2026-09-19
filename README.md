@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 ## Sqrt Decomposition
 |  |
 | ------- |
