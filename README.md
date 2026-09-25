@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0684-redundant-connection) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0809-expressive-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -607,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
 | [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
 ## Simulation
 |  |
