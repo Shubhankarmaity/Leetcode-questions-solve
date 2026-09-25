@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4024-nearest-available-drone) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## String
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Sorting
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Graph Theory
 |  |
 | ------- |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Stack
 |  |
 | ------- |
