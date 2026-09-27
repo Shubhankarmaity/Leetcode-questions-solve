@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
 ## Simulation
 |  |
@@ -907,4 +909,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0686-repeated-string-match) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
