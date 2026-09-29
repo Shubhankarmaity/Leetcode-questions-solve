@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2784-check-if-array-is-good) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1301-number-of-paths-with-max-score) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1914-cyclically-rotating-a-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1872-stone-game-viii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2484-count-palindromic-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -916,4 +919,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
