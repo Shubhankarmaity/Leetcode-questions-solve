@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0053-maximum-subarray) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0061-rotate-list) |
