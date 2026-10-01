@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0684-redundant-connection) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0141-linked-list-cycle) |
