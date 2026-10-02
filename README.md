@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0739-daily-temperatures) |
 | [0749-contain-virus](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0749-contain-virus) |
 | [0809-expressive-words](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0809-expressive-words) |
 | [0835-image-overlap](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0835-image-overlap) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
