@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0739-daily-temperatures) |
 | [0749-contain-virus](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0749-contain-virus) |
 | [0809-expressive-words](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0809-expressive-words) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
