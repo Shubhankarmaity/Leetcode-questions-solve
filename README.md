@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0684-redundant-connection) |
 | [0749-contain-virus](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0749-contain-virus) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
