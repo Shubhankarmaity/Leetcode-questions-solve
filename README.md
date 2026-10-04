@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0940-distinct-subsequences-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0696-count-binary-substrings) |
 | [0809-expressive-words](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0809-expressive-words) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -988,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
