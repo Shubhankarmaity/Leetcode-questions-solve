@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0518-coin-change-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1096-brace-expansion-ii) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1386-cinema-seat-allocation) |
