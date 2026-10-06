@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0115-distinct-subsequences) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
