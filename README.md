@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0684-redundant-connection) |
 | [0749-contain-virus](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0749-contain-virus) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0494-target-sum) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -1055,4 +1059,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0023-merge-k-sorted-lists) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
