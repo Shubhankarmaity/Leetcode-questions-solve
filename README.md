@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0219-contains-duplicate-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
