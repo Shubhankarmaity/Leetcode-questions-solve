@@ -3,30 +3,29 @@
  * @return {boolean}
  */
 var checkValidString = function(s) {
-let low = 0;
-let high = 0;
+    let low=0;
+    let high=0;
+    let q=[];
 
-for (const ch of s) {
-    if (ch === '(') {
-        low++;
-        high++;
-    } else if (ch === ')') {
-        low--;
-        high--;
-    } else { // '*'
-        low--;
-        high++;
+    for(let char of s){
+        if(char==='('){
+            low++;
+            high++;
+        }
+        else if(char===')'){
+            low--;
+            high--;
+        }
+        else{
+            low--;
+            high++
+        }
+        if(high<0){
+            return false;
+        }
+        if(low<0){
+            low=0;
+        }
     }
-
-    if (high < 0) {
-        return false;
-    }
-
-    if (low < 0) {
-        low = 0;
-    }
-}
-
-return low === 0;
-
+    return low===0;
 };
