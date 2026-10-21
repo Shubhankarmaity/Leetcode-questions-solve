@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3093-longest-common-suffix-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3093-longest-common-suffix-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3093-longest-common-suffix-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3498-reverse-degree-of-a-string) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3093-longest-common-suffix-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3093-longest-common-suffix-queries) |
 ## Brute-Force Search
 |  |
 | ------- |
