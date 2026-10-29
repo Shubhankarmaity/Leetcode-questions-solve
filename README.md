@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1084,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0322-coin-change) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
