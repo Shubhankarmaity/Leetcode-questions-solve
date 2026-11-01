@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0836-rectangle-overlap) |
