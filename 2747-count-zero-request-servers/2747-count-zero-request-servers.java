@@ -4,10 +4,8 @@ import java.util.*;
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
 
-        // Sort logs by timestamp
         Arrays.sort(logs, (a, b) -> a[1] - b[1]);
 
-        // Store queries with their original indices
         int[][] sortedQueries = new int[queries.length][2];
 
         for (int i = 0; i < queries.length; i++) {
@@ -19,7 +17,6 @@ class Solution {
 
         int[] ans = new int[queries.length];
 
-        // Frequency of requests per server
         Map<Integer, Integer> map = new HashMap<>();
 
         int left = 0;
@@ -30,7 +27,6 @@ class Solution {
             int time = q[0];
             int index = q[1];
 
-            // Add logs within the current query's upper bound
             while (right < logs.length && logs[right][1] <= time) {
                 map.put(
                     logs[right][0],
@@ -39,7 +35,6 @@ class Solution {
                 right++;
             }
 
-            // Remove logs outside the time window
             while (left < right && logs[left][1] < time - x) {
 
                 int server = logs[left][0];
@@ -53,7 +48,6 @@ class Solution {
                 left++;
             }
 
-            // Servers with zero requests
             ans[index] = n - map.size();
         }
 
