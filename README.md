@@ -1126,4 +1126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
