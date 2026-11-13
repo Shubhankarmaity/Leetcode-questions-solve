@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Graph Theory
 |  |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -831,16 +834,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2866-beautiful-towers-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2866-beautiful-towers-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
@@ -848,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3841-palindromic-path-queries-in-a-tree) |
