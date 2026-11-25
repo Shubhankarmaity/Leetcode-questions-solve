@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 | [4024-nearest-available-drone](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4024-nearest-available-drone) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Sorting
 |  |
@@ -1172,4 +1177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
