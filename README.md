@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4024-nearest-available-drone](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4024-nearest-available-drone) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Binary Search
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Shubhankarmaity/Leetcode-questions-solve/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
